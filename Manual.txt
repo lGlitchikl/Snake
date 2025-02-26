@@ -1,0 +1,51 @@
+English:
+
+To run this file, you will need:
+
+1. Python 3: Make sure you have Python 3 installed. Version 3.7 or higher is recommended.
+You can check your version by entering python --version or python3 --version on your command line.
+
+2. Pygame Library: This is a library for working with graphics, sound, and input in Python.  Install it using pip:
+
+   pip install pygame
+  
+3. Images: The code uses images with the specified file names: "ikefo9ec.png", "ikefo8ec.png", "gac3dbz4.png", "gac3dbz3.png", "appl.png", "banana.png", "cherry.png", "4njxi20w.png", "wp6eo9hc.png".  You must place these images in the same directory where your Python file is located.  Without these images, the game will not start, and you will receive a FileNotFoundError error.
+
+4. (Optional) Fonts: The code uses the fonts "bahnschrift" and "comicsansms".
+If these fonts are not installed on your computer, Pygame will try to use the default system font.
+In most cases, this works without problems, but if you wish, you can install these fonts or specify other fonts in the code.
+
+After installing Pygame and posting all the images:
+
+1. Save the code: Save the provided code to a file with the .py extension (for example,
+snake_game.py 2. Run: Run the file from the command line using the python command snake_game.py (or python3 snake_game.py ).
+
+If everything is set correctly and the images are in place, the game should start.
+If errors occur, check the availability and correctness of the image file names.
+Pay attention to the letter case in the file names.
+
+Русский:
+
+Для запуска этого файла вам понадобится:
+
+1. Python 3:  Убедитесь, что у вас установлен Python 3.  Версия 3.7 или выше рекомендуется.
+Вы можете проверить свою версию, введя python --version или python3 --version в вашей командной строке.
+
+2. Библиотека Pygame: Это библиотека для работы с графикой, звуком и вводом в Python.  Установите её с помощью pip:
+
+   pip install pygame
+  
+3. Изображения:  В коде используются изображения с указанными именами файлов: "ikefo9ec.png", "ikefo8ec.png", "gac3dbz4.png", "gac3dbz3.png", "appl.png", "banan.png", "cherry.png", "4njxi20w.png", "wp6eo9hc.png".  Вы должны разместить эти изображения в той же директории, где находится ваш Python-файл.  Без этих изображений игра не запустится, и вы получите ошибку FileNotFoundError.
+
+4. (Опционально) Шрифты: Код использует шрифты "bahnschrift" и "comicsansms".
+Если эти шрифты не установлены на вашем компьютере, Pygame попытается использовать системный шрифт по умолчанию.
+В большинстве случаев это работает без проблем, но при желании вы можете установить эти шрифты или указать другие шрифты в коде.
+
+После установки Pygame и размещения всех изображений:
+
+1. Сохраните код: Сохраните предоставленный код в файл с расширением .py (например, snake_game.py).
+2. Запустите: Запустите файл из командной строки, используя команду python snake_game.py (или python3 snake_game.py).
+
+Если всё установлено правильно и изображения находятся на месте, игра должна запуститься.
+Если возникают ошибки, проверьте наличие и корректность имён файлов изображений.
+Обратите внимание на регистр букв в именах файлов.
